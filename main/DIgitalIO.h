@@ -1,5 +1,6 @@
 class DigitalIO_t {
   public:
+  
 
     int pin;
   int mode;
